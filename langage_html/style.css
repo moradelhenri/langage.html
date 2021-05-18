@@ -1,0 +1,36 @@
+.introduction
+{
+    color: red
+}
+ 
+    
+    body
+     {
+      background-color: yellow;
+     }
+   
+ @font-face
+{
+ font-family: "Open Sans";
+ src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+ url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+}
+
+p
+{
+   font-family:  OpenSans-Regular-webfont, Impact, Arial Black, Arial, Verdana, sans-serif;
+}
+p
+{
+   font-size: 0.8em;
+}
+h1
+{
+    font-size: 1.3em;
+}
+.seul
+{
+  border: 2px solid black;
+   box-shadow: 6px 6px 0px black;
+
+}   
